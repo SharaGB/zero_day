@@ -1,4 +1,4 @@
-# <a href="url"><img src="https://user-images.githubusercontent.com/90220978/155154938-4e643c5b-8631-4f79-afc0-a5e278d7d743.png" align="middle" width="100" height="100"></a> Git
+# <a href="url"><img src="https://user-images.githubusercontent.com/90220978/155155112-c490ff7a-8e5a-4623-9e07-e35054f03d84.png" align="middle" width="200" height="130"></a>
 
 <div class="well clean" id="project-description">
   <h2>Resources</h2>
